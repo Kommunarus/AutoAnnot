@@ -1,0 +1,14 @@
+matplotlib
+numpy
+Pillow
+torch
+torchvision
+tqdm
+wandb
+opencv-python
+pycocotools
+albumentations
+requests
+flask
+flask_cors
+flask_restful
